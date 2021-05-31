@@ -1,0 +1,16 @@
+1:
+  name: milk
+  price: 3.97
+  sale_quantity: 2
+  sale_price: 5.00
+2:
+  name: bread
+  price: 2.17
+  sale_quantity: 3
+  sale_price: 6.00
+3:
+  name: banana
+  price: 0.99
+4:
+  name: apple
+  price: 0.89
